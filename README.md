@@ -8,3 +8,5 @@ This app
 - npm run web
 
 npx expo install @supabase/supabase-js react-native-url-polyfill expo-image-picker expo-file-system buffer
+npx expo install react-native-safe-area-context
+npx expo start -c
