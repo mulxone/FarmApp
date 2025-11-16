@@ -172,7 +172,7 @@ export default function Login() {
         return;
       }
 
-      Alert.alert('Success', 'Logged in successfully!');
+    //   Alert.alert('Success', 'Logged in successfully!');
       router.replace('/(tabs)');
 
     } catch (error: any) {
